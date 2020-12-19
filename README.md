@@ -2,6 +2,7 @@
 Description: The Blocky game.
 
 ==================== GAME RULE ====================
+
 Objective: Achieve the given goal with the highest score.
 Suggested number of players: 1 to 4
 
@@ -15,6 +16,7 @@ Note:
 	2) How well has the goal has been achieved (determined by counting the number of the unit cells)
 
 ============== Program Implementation ==============
+
 Objectives:
 - model hierarchical data using trees
 - implement recursive operations on trees (both non-mutating and mutating)
