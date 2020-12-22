@@ -20,7 +20,7 @@ Note:
      * Rotating, Swapping, and Passing cost 0 points.
      * Painting and Combining cost 1 point each time they are performed.
      * Smashing costs 3 points each time it is performed.
-	2) How well has the goal has been achieved (determined by counting the number of the unit cells)
+	2) How well the goal has been achieved (determined by counting the number of the unit cells)
 
 ==================== GAME INFO ====================
 
