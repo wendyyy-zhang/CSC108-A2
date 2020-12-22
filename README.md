@@ -1,5 +1,4 @@
-# CSC108-A2
-Description: The Blocky game.
+# The Blocky game
 
 ==================== GAME RULE ====================
 
